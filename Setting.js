@@ -76,8 +76,8 @@ module.exports = {
 
   //==============================[COMPULSORY]=====================================
   sessionName: process.env.SESSION_ID || '',              // PUT YOUR SESSION ID
-  botname: process.env.BOT_NAME       || 'sɪɢᴍᴀ-ᴍᴅ',         // ADD YOUR BOT NAME
-  ownername:  process.env.OWNER_NAME  || `ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ`, // ADD YOUR NAME
+  botname: process.env.BOT_NAME       || 'OSIAS-TECH',         // ADD YOUR BOT NAME
+  ownername:  process.env.OWNER_NAME  || `OSIAS-TECH`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
   WORKTYPE: process.env.WORKTYPE      || 'public',      // IF PRIVATE ONLY YOU CAN USE YOUR BOT, IF PUBLIC EVERYONE CAN USE YOUR BOT
   //================================================================================
